@@ -31,6 +31,7 @@ This repository contains **10 beginner-friendly JavaScript problems** to practic
 
 ## Sample Output
 
+```
 1. Selected Stationaries:  [ 'Pen', 'Paper' ]
 2. Selected Drinks:  [ 'Tea', 'Coffee', 'Fresh Juice' ]
 3. Small Numbers:  [ 1, 2, 3 ]
@@ -41,5 +42,6 @@ This repository contains **10 beginner-friendly JavaScript problems** to practic
 8. Transport Items:  [ 'Car', 'Bike', 'Bus', 'Truck' ]
 9. Doubled Numbers:  [ 4, 10, 18 ]
 10. Short Food Names:  [ 'Bhel Puri', 'Pani Puri' ]
+```
 
 (Note: Output may vary slightly if the code is modified.)
